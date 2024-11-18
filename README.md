@@ -33,12 +33,6 @@ The application uses <strong>scikit-learn</strong> for building and training the
 
 ---
 
-## Installation
-
-To set up the project, install the required Python dependencies listed in `requirements.txt`. Open the Jupyter Notebook (`Fake news detection.ipynb`) to execute the code and explore the results interactively.
-
----
-
 ## Data
 
 The dataset used for this project is preprocessed and stored in a structured format. Key features include:
